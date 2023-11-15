@@ -12,7 +12,7 @@ function Newpage({params}) {
 
     useEffect(()=>{
         fetch(`/api/tasks/${params.id}`)
-            .then((res)=>res.json())
+            .then(res => res.json())
             .then((data)=>{
                 setTitle(data.title)
                 setDescription(data.description)
