@@ -10,8 +10,8 @@ function Navbar() {
             </Link>
         <ul className='flex gap-x-2 text-lg font-bold'>
             <li>
-                <Link href='/' className='text-slate-300 hover:text-slate-200'>
-                    Home
+                <Link href='/new' className='text-slate-300 hover:text-slate-200'>
+                    New
                 </Link>
             </li>
             <li>
