@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="/image.webp" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>NextJS-prisma-crud</b></h3>
@@ -120,7 +120,7 @@ Install this project with:
   cd my-project
   npm install
 ```
---->
+
 
 ### Usage
 
@@ -130,7 +130,7 @@ To run the project, execute the following command:
 ```sh
   npm run dev
 ```
---->
+
 
 
 ### Deployment
@@ -146,7 +146,6 @@ You can deploy this project using:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
 
 👤 **Cesar Valencia**
 
